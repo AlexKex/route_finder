@@ -10,10 +10,20 @@ Based on Dijkstra algorythm and PHP SPL structures.
     ```
     "require": {
         ...
-        "alexkex/route_finder": "1.*"
+        "alexkex/route_finder": "dev-master"
         ...
     }
     ```
+    ...
+    ```
+    "repositories": {
+        ...
+         "type":"git",
+         "url":"http://github.com/AlexKex/route_finder"
+        ...
+    }
+    ```
+
 
 3. Update composer:
     ```sh
