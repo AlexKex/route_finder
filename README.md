@@ -10,7 +10,7 @@ Based on Dijkstra algorythm and PHP SPL structures.
     ```
     "require": {
         ...
-        "jmgq/a-star": "1.*"
+        "alexkex/route_finder": "1.*"
         ...
     }
     ```
