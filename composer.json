@@ -1,0 +1,19 @@
+{
+    "name": "AlexKex/route_finder",
+    "description": "Route finder module for PHP ",
+    "keywords": ["pathfinding", "algorithm", "dijkstra"],
+    "authors": [
+        {
+            "name": "Alex Pryakhin",
+            "email": "alejandro.pryakhin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AlexKex\\route_finder\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
