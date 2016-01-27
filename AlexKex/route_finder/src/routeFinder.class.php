@@ -21,7 +21,7 @@ class routeFinder {
             $this->route->calculateRouteData();
         }
         catch(routeFinderException $e){
-            $e->getMessage();
+            echo $e->getMessage();
         }
 
         return $this->route->getRouteInfo();
