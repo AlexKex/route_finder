@@ -6,6 +6,10 @@
  * Time: 16:33
  */
 
+namespace AlexKex\route_finder;
+
+require __DIR__ . '/../../vendor/autoload.php';
+
 $map2 = [
     ["A", "B", 3],
     ["A", "C", 4],
@@ -18,7 +22,7 @@ $map2 = [
     ["E", "F", 7]
 ];
 
-$finder = new \src\routeFinder();
+$finder = new routeFinder();
 
 $start = "A";
 $finish = "F";

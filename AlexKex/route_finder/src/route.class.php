@@ -6,7 +6,7 @@
  * Time: 17:23
  */
 
-namespace src;
+namespace AlexKex\route_finder;
 
 
 class route {

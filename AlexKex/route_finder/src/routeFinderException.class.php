@@ -6,7 +6,7 @@
  * Time: 17:24
  */
 
-namespace src;
+namespace AlexKex\route_finder;
 
 
 class routeFinderException extends \Exception{
