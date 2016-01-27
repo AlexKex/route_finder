@@ -16,7 +16,7 @@ $map2 = [
     ["E", "F", 7]
 ];
 
-$finder = new routeFinder();
+$finder = new RouteFinder();
 
 $start = "A";
 $finish = "F";
