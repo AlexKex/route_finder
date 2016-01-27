@@ -9,6 +9,6 @@
 namespace AlexKex\route_finder;
 
 
-class routeFinderException extends \Exception{
+class RouteFinderException extends \Exception{
 
 } 
