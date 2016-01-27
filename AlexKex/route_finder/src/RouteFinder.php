@@ -9,7 +9,7 @@
 namespace AlexKex\route_finder;
 
 
-class routeFinder {
+class RouteFinder {
     protected $route; // instance of the route class
 
     public function findRoute($startPoint, $finishPoint, $map){
