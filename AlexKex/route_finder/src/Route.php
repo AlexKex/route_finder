@@ -9,7 +9,7 @@
 namespace AlexKex\route_finder;
 
 
-class route {
+class Route {
     const START_INDEX = 0;
     const FINISH_INDEX = 1;
     const WEIGHT_INDEX = 2;
